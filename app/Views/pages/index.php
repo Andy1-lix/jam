@@ -16,15 +16,15 @@
 		<div class="tgl fst-italic">
 			<span id="hari"></span><br>
 			<span id="tgl_masehi"></span><br>
-			<span>____________________</span><br>
+			<!-- <span>____________________</span><br> -->
 			<span id="tgl_hijriah"></span><br>
 		</div>
 		<div class="masjid text-center">
-			<h3>MASJID AL FURQON
-				<br>SURABAYA
+			<h3>Masjid Al-Irfan
+				<br>Malang
 			</h3>
-			<small>Lorem ipsum dolor sit amet</small><br>
-			<small>Lorem ipsum h</small><br>
+			<small>admin@sekolahsabilillah.sch.id</small><br>
+			<small>Jl. Terusan Piranha Atas No.135 Malang</small><br>
 		</div>
 		<div class="jam">
 			<span id="jam"></span>
@@ -32,11 +32,11 @@
 	</header>
 
 	<footer>
-		<div class="solatSelanjutnya">ashar -00:93:29</div>
+		<div class="solatSelanjutnya"></div>
 		<div class="jadwal" id="jadwalSholat"></div>
 
 		<!-- Text berjalan -->
-		<marquee scrollamount="14" style="color: white;">Jangan Lupa Pakai Masker </marquee>
+		<marquee scrollamount="12" style="color: white;">Tetap Putus Asa Dan Jangan Semangat </marquee>
 	</footer>
 </body>
 <!-- tgl hiriah -->
@@ -45,7 +45,7 @@
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
-<!-- script sendiri -->
+<!-- script  -->
 <script type="text/javascript" src="query.js"></script>
 
 </html>

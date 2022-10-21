@@ -1,6 +1,6 @@
 body {
 	/* background-image: url("http://3.bp.blogspot.com/_5PeoVs8brQA/SeGc9Z5iVjI/AAAAAAAAAh8/xBXa64LvkF0/S660/kaaba2.jpg"); */
-	background-image: url("https://c4.wallpaperflare.com/wallpaper/285/518/469/5bd361cc9fda5-wallpaper-preview.jpg");
+	background-image: url("https://images8.alphacoders.com/536/536274.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -23,7 +23,7 @@ body {
 
 marquee {
 	background-color: rgba(255, 255, 255, 0.3);
-	font-size: 300%;
+	font-size: 200%;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -47,6 +47,7 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 10px;
+
 }
 
 .tgl {
